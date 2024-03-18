@@ -1,5 +1,6 @@
 {
   "name": "init",
+  "type": "module",
   "version": "1.0.0",
   "description": "repo for bajaj test for full stack development",
   "main": "app.js",
