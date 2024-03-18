@@ -1,5 +1,5 @@
 import express from "express";
-import {router} from "./controlllers/post.js";
+import {router} from "./controllers/post.js";
 import bodyParser from "body-parser";
 const app = express();
 const port = process.env.PORT || 8000;
